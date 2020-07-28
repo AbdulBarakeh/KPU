@@ -1,0 +1,18 @@
+
+ Service has been started @10-06-2020 21:19:28
+ Change happened in C:\Windows\Temp\KPU1\noooo.txt @10-06-2020 21:19:45
+ This happened: Changed
+ Change happened in C:\Windows\Temp\KPU1\noooo.txt @10-06-2020 21:19:45
+ This happened: Changed
+ Change happened in C:\Windows\Temp\KPU1\Nyt tekstdokument.txt @10-06-2020 21:20:06
+ This happened: Created
+ Change happened in C:\Windows\Temp\KPU1\test.txt @10-06-2020 21:20:10
+ This happened: Renamed
+ Change happened in C:\Windows\Temp\KPU1\noooo.txt @10-06-2020 21:20:28
+ This happened: Deleted
+ Service has been stopped @10-06-2020 21:20:46
+ Service has been started @15-06-2020 10:28:31
+ Change happened in C:\Windows\Temp\KPU1\test.txt @18-06-2020 12:48:11
+ This happened: Changed
+ Change happened in C:\Windows\Temp\KPU1\test.txt @18-06-2020 12:48:11
+ This happened: Deleted

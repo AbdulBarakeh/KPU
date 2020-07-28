@@ -1,0 +1,208 @@
+﻿
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Der opstod en undtagelse under installationsfasen.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+
+Påbegynder tilbagerulningsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Tilbagerulningsfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+
+Påbegynder afinstallationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Afinstallationen er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Der opstod en undtagelse under installationsfasen.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+
+Påbegynder tilbagerulningsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Tilbagerulningsfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+
+Påbegynder afinstallationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Afinstallationen er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Der opstod en undtagelse under installationsfasen.
+System.ComponentModel.Win32Exception: Adgang nægtet
+
+Påbegynder tilbagerulningsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Tilbagerulningsfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Der opstod en undtagelse under installationsfasen.
+System.ComponentModel.Win32Exception: Der blev ikke udført nogen afbildning mellem kontonavne og sikkerheds-id
+
+Påbegynder tilbagerulningsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Tilbagerulningsfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+
+Påbegynder afinstallationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Afinstallationen er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Installationsfasen er fuldført, og bekræftelsesfasen begynder.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Bekræftelsesfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+
+Påbegynder afinstallationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Afinstallationen er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Installationsfasen er fuldført, og bekræftelsesfasen begynder.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Bekræftelsesfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+
+Påbegynder afinstallationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Afinstallationen er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Installationsfasen er fuldført, og bekræftelsesfasen begynder.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Bekræftelsesfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+
+Påbegynder afinstallationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Afinstallationen er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Installationsfasen er fuldført, og bekræftelsesfasen begynder.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Bekræftelsesfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+
+Påbegynder afinstallationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Afinstallationen er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Installationsfasen er fuldført, og bekræftelsesfasen begynder.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Bekræftelsesfasen er fuldført.
+
+Den overførte installation er fuldført.
+
+
+Påbegynder afinstallationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Afinstallationen er fuldført.
+
+Kører en overført installation.
+
+Påbegynder installationsfasen af installationen.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Installationsfasen er fuldført, og bekræftelsesfasen begynder.
+Se indholdet af logfilen med status for assemblyen C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.
+Filen er placeret på C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog.
+
+Bekræftelsesfasen er fuldført.
+
+Den overførte installation er fuldført.

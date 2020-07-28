@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- For IE11 and Edge -->
+  <script src="https://unpkg.com/@webcomponents/custom-elements"></script> 
+  <script src="./kpu-poly-search.js"></script>
+  <link rel="stylesheet" href="./kpu-poly-search.css">
+  <title>KPU demo WebComponents 2.1</title>
+</head>
+
+<body>
+  <p>Use of a configurable component with setters</p>
+  <kpu-poly-search >
+  </kpu-poly-search>
+  <script>
+    document.querySelector('kpu-poly-search').apiKey = 'AIzaSyDa9hb1rnUNuoV_jocuXCGpH5Mp_u1GNdA';
+    document.querySelector('kpu-poly-search').searchTerm = 'parrot';
+  </script>
+</body>
+
+</html>

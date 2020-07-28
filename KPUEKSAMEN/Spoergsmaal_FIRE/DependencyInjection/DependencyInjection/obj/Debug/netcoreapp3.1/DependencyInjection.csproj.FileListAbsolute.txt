@@ -1,0 +1,15 @@
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_FIRE\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache

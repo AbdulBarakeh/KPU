@@ -1,0 +1,202 @@
+﻿Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Opretter EventLog-kilden KPUService i logfilen Application...
+Annullerer opdatering af assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Gendanner hændelsesloggen til den foregående tilstand for kilden KPUService.
+Der opstod en undtagelse under tilbagerulningsfasen i installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under tilbagerulningsfasen af installationen. Undtagelsen bliver ignoreret, og tilbagerulningen fortsætter. Computeren vender dog muligvis ikke tilbage til sin helt oprindelige tilstand, når tilbagerulningen er fuldført.
+Afinstallerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Fjerner EventLog-kilden KPUService.
+Der opstod en undtagelse under afinstallation af installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under afinstallationen. Undtagelsen bliver ignoreret, og afinstallationen fortsætter. Programmet er dog muligvis ikke helt fjernet, når afinstallationen er fuldført.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Opretter EventLog-kilden KPUService i logfilen Application...
+Annullerer opdatering af assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Gendanner hændelsesloggen til den foregående tilstand for kilden KPUService.
+Der opstod en undtagelse under tilbagerulningsfasen i installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under tilbagerulningsfasen af installationen. Undtagelsen bliver ignoreret, og tilbagerulningen fortsætter. Computeren vender dog muligvis ikke tilbage til sin helt oprindelige tilstand, når tilbagerulningen er fuldført.
+Afinstallerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Fjerner EventLog-kilden KPUService.
+Der opstod en undtagelse under afinstallation af installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under afinstallationen. Undtagelsen bliver ignoreret, og afinstallationen fortsætter. Programmet er dog muligvis ikke helt fjernet, når afinstallationen er fuldført.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Annullerer opdatering af assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Der opstod en undtagelse under tilbagerulningsfasen i installationsprogrammet System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Objektreferencen er ikke indstillet til en forekomst af et objekt.
+Der opstod en undtagelse under tilbagerulningsfasen af installationen. Undtagelsen bliver ignoreret, og tilbagerulningen fortsætter. Computeren vender dog muligvis ikke tilbage til sin helt oprindelige tilstand, når tilbagerulningen er fuldført.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Annullerer opdatering af assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Afinstallerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Fjerner EventLog-kilden KPUService.
+Advarsel! Kilden KPUService er ikke registreret på den lokale computer.
+Tjenesten KPUService bliver fjernet fra systemet...
+Der opstod en undtagelse under afinstallation af installationsprogrammet System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: Den angivne tjeneste findes ikke som en installeret tjeneste
+Der opstod en undtagelse under afinstallationen. Undtagelsen bliver ignoreret, og afinstallationen fortsætter. Programmet er dog muligvis ikke helt fjernet, når afinstallationen er fuldført.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Tjenesten KPUService blev installeret.
+Opretter EventLog-kilden KPUService i logfilen Application...
+Bekræfter assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Afinstallerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Fjerner EventLog-kilden KPUService.
+Tjenesten KPUService bliver fjernet fra systemet...
+Tjenesten KPUService blev fjernet fra systemet.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Tjenesten KPUService blev installeret.
+Opretter EventLog-kilden KPUService i logfilen Application...
+Bekræfter assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Afinstallerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Fjerner EventLog-kilden KPUService.
+Tjenesten KPUService bliver fjernet fra systemet...
+Tjenesten KPUService blev fjernet fra systemet.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Tjenesten KPUService blev installeret.
+Opretter EventLog-kilden KPUService i logfilen Application...
+Bekræfter assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Afinstallerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Fjerner EventLog-kilden KPUService.
+Tjenesten KPUService bliver fjernet fra systemet...
+Tjenesten KPUService blev fjernet fra systemet.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Tjenesten KPUService blev installeret.
+Opretter EventLog-kilden KPUService i logfilen Application...
+Bekræfter assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Afinstallerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Fjerner EventLog-kilden KPUService.
+Tjenesten KPUService bliver fjernet fra systemet...
+Tjenesten KPUService blev fjernet fra systemet.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Tjenesten KPUService blev installeret.
+Opretter EventLog-kilden KPUService i logfilen Application...
+Bekræfter assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Afinstallerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Fjerner EventLog-kilden KPUService.
+Tjenesten KPUService bliver fjernet fra systemet...
+Tjenesten KPUService blev fjernet fra systemet.
+Installerer assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+Installerer tjenesten KPUService...
+Tjenesten KPUService blev installeret.
+Opretter EventLog-kilden KPUService i logfilen Application...
+Bekræfter assemblyen 'C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe

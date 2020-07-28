@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Say hi</title>
+    <script>
+        class MyCustomTag extends HTMLElement {
+          connectedCallback() {
+            alert('hi from MyCustomTag');
+          }
+        }
+        if (!customElements.get('my-custom-tag')) {
+          customElements.define('my-custom-tag',  MyCustomTag);  // Virker ikke i Edge pt
+          // use the polyfill https://github.com/WebReflection/document-register-element
+        }
+      </script>      
+</head>
+<body>
+    <my-custom-tag></my-custom-tag>
+</body>
+</html>

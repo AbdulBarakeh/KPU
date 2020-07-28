@@ -1,0 +1,3 @@
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_TO\DLL\Debug\DLL.dll
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_TO\DLL\Debug\DLL.pdb
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_TO\DLL\DLL.pdb

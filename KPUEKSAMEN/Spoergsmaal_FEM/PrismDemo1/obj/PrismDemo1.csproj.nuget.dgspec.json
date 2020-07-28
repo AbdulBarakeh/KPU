@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PrismDemo1\\PrismDemo1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\LocationModule\\LocationModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\LocationModule\\LocationModule.csproj",
+        "projectName": "LocationModule",
+        "projectPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\LocationModule\\LocationModule.csproj",
+        "packagesPath": "C:\\Users\\Abdul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\LocationModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PeopleModule\\PeopleModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PeopleModule\\PeopleModule.csproj",
+        "projectName": "PeopleModule",
+        "projectPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PeopleModule\\PeopleModule.csproj",
+        "packagesPath": "C:\\Users\\Abdul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PeopleModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PrismDemo1\\PrismDemo1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PrismDemo1\\PrismDemo1.csproj",
+        "projectName": "PrismDemo1",
+        "projectPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PrismDemo1\\PrismDemo1.csproj",
+        "packagesPath": "C:\\Users\\Abdul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PrismDemo1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\LocationModule\\LocationModule.csproj": {
+                "projectPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\LocationModule\\LocationModule.csproj"
+              },
+              "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PeopleModule\\PeopleModule.csproj": {
+                "projectPath": "C:\\Users\\Abdul\\Documents\\UNI\\6_Semester\\KPUEKSAMEN\\Spoergsmaal_FEM\\PeopleModule\\PeopleModule.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

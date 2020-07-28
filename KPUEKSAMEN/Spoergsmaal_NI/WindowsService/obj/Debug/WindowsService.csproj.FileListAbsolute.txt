@@ -1,0 +1,10 @@
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.KPUService.resources
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\Abdul\Documents\UNI\6_Semester\KPUEKSAMEN\Spoergsmaal_NI\WindowsService\obj\Debug\WindowsService.pdb

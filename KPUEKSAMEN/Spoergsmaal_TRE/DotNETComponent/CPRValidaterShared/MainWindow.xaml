@@ -1,0 +1,49 @@
+﻿<Window x:Class="CPRValidaterShared.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CPRValidaterShared"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--//====Regions====//-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="14*"/>
+            <ColumnDefinition Width="24*"/>
+            <ColumnDefinition Width="19*"/>
+            <ColumnDefinition Width="19*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="28*"/>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="28*"/>
+            <RowDefinition Height="193.039"/>
+        </Grid.RowDefinitions>
+
+        <!--//====Components====//-->
+        <TextBlock Grid.Row="1" Grid.Column="1" > Insert CPR:</TextBlock>
+        <TextBox x:Name="cprNumber" Grid.Row="1" Grid.Column="2" ></TextBox>
+        <Button Grid.Row="2" MaxWidth="100" MaxHeight="35" Margin="15,6,0,0" Click="Button_Click_Validate" Grid.ColumnSpan="2" >Validate CPR</Button>
+        <TextBlock Grid.Row="2" Grid.Column="2" x:Name="errMsg" Margin="0,6,0,0"/>
+
+        <Button Grid.Column="1" Grid.Row="4" MaxHeight="35" MaxWidth="125" Click="Button_Click_GetInfo">Get Info on Assembly</Button>
+        <TextBlock Grid.Row="5" Grid.Column="1" > Name:</TextBlock>
+        <TextBlock Grid.Row="5" Grid.Column="1" Margin="0,27,0,0" Grid.RowSpan="2"  > Version:</TextBlock>
+        <TextBlock Grid.Row="7" Grid.Column="1"  > Location:</TextBlock>
+        <TextBlock Grid.Row="8" Grid.Column="1"  > Loaded from GAC:</TextBlock>
+
+        <TextBox Grid.Column="2" Grid.Row="5" Grid.ColumnSpan="2" x:Name="name" />
+        <TextBox Grid.Column="2" Grid.Row="6" Grid.ColumnSpan="2" x:Name="version" />
+        <TextBox Grid.Column="2" Grid.Row="7" Grid.ColumnSpan="2" x:Name="Location" />
+        <TextBox Grid.Column="2" Grid.Row="8" Grid.ColumnSpan="2" x:Name="LoadFromGAC" />
+    </Grid>
+</Window>

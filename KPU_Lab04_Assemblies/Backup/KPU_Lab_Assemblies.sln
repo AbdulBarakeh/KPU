@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01CprDLL", "CprDLL\01CprDLL.csproj", "{CF98F3DC-FCE6-4011-B9B5-2CD2C3BF5ACB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6297EEF1-EE2E-4F97-A58C-6CDC0AD260E7}"
+	ProjectSection(SolutionItems) = preProject
+		ITKPU Lab 4 Use of Assemblies.pdf = ITKPU Lab 4 Use of Assemblies.pdf
+		Kommentarer til løsning.pdf = Kommentarer til løsning.pdf
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02ValidateCpr", "ValidateCpr\02ValidateCpr.csproj", "{A07C8367-B2E7-4B4B-9B22-654AED01A23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03CprSharedDll", "CprSharedDll\03CprSharedDll.csproj", "{7526E611-6652-41FC-9CDA-C8D0EFB5AEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04ValidateSharedCpr", "ValidateSharedCpr\04ValidateSharedCpr.csproj", "{45950E5D-5C2D-4828-BF9D-F69B0472B9D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05CprTBControl", "CprTBControl\05CprTBControl.csproj", "{8294E215-2E55-4C59-81F6-882A2CF1735E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ValidateCprToolboxControl", "ValidateCprToolboxControl\05ValidateCprToolboxControl.csproj", "{19B23D25-10DA-4AE9-AE0A-7B85B5D88ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF98F3DC-FCE6-4011-B9B5-2CD2C3BF5ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF98F3DC-FCE6-4011-B9B5-2CD2C3BF5ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF98F3DC-FCE6-4011-B9B5-2CD2C3BF5ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF98F3DC-FCE6-4011-B9B5-2CD2C3BF5ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07C8367-B2E7-4B4B-9B22-654AED01A23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07C8367-B2E7-4B4B-9B22-654AED01A23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07C8367-B2E7-4B4B-9B22-654AED01A23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07C8367-B2E7-4B4B-9B22-654AED01A23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7526E611-6652-41FC-9CDA-C8D0EFB5AEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7526E611-6652-41FC-9CDA-C8D0EFB5AEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7526E611-6652-41FC-9CDA-C8D0EFB5AEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7526E611-6652-41FC-9CDA-C8D0EFB5AEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45950E5D-5C2D-4828-BF9D-F69B0472B9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45950E5D-5C2D-4828-BF9D-F69B0472B9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45950E5D-5C2D-4828-BF9D-F69B0472B9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45950E5D-5C2D-4828-BF9D-F69B0472B9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8294E215-2E55-4C59-81F6-882A2CF1735E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8294E215-2E55-4C59-81F6-882A2CF1735E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8294E215-2E55-4C59-81F6-882A2CF1735E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8294E215-2E55-4C59-81F6-882A2CF1735E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B23D25-10DA-4AE9-AE0A-7B85B5D88ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B23D25-10DA-4AE9-AE0A-7B85B5D88ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B23D25-10DA-4AE9-AE0A-7B85B5D88ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B23D25-10DA-4AE9-AE0A-7B85B5D88ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

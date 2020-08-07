@@ -1,0 +1,4 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprSharedDll\bin\Debug\CprSharedDll.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprSharedDll\bin\Debug\CprSharedDll.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprSharedDll\obj\Debug\CprSharedDll.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprSharedDll\obj\Debug\CprSharedDll.pdb

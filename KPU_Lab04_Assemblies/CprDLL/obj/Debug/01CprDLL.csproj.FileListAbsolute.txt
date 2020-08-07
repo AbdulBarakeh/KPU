@@ -1,0 +1,5 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprDLL\bin\Debug\CprDLL.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprDLL\bin\Debug\CprDLL.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprDLL\obj\Debug\CprDLL.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprDLL\obj\Debug\CprDLL.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab04_Assemblies\CprDLL\obj\Debug\01CprDLL.csprojResolveAssemblyReference.cache

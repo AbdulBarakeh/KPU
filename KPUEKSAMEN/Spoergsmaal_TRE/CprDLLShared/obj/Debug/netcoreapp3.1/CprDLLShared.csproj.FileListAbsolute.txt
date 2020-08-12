@@ -1,0 +1,8 @@
+C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\bin\Debug\netcoreapp3.1\CprDLLShared.deps.json
+C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\bin\Debug\netcoreapp3.1\CprDLLShared.dll
+C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\bin\Debug\netcoreapp3.1\CprDLLShared.pdb
+C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.AssemblyInfoInputs.cache
+C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.AssemblyInfo.cs
+C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.dll
+C:\Users\abdul\Documents\UNI\KPU\KPUEKSAMEN\Spoergsmaal_TRE\CprDLLShared\obj\Debug\netcoreapp3.1\CprDLLShared.pdb

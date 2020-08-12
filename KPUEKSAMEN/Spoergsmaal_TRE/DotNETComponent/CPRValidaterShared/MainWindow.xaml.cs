@@ -22,15 +22,12 @@ namespace CPRValidaterShared
     /// </summary>
     public partial class MainWindow : Window
     {
-        Assembly myDll = Assembly.Load("CprDLLShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=be353884b567f8b6");
-        //Assembly myDll = Assembly.LoadFile("C:\\Windows\\Microsoft.NET\\assembly\\GAC_MSIL\\CprDLLShared\\v4.0_1.0.0.0__be353884b567f8b6\\CPRDLLSHARED.dll");
-        Type assType;
-        CprCheck cprDLL;
+        //For Test Purposes use: 0609240121
+        CprCheck cprDLL = new CprCheck();
+
         public MainWindow()
         {
             InitializeComponent();
-            assType = myDll.GetType("CprDLLShared.CprCheck");
-            cprDLL = new CprCheck();
         }
 
         private void Button_Click_Validate(object sender, RoutedEventArgs e)
@@ -68,6 +65,7 @@ namespace CPRValidaterShared
         private void Button_Click_GetInfo(object sender, RoutedEventArgs e)
         {
 
+            Type assType = cprDLL.GetType();
             name.Text = assType.Assembly.FullName;
             AssemblyName assName = assType.Assembly.GetName();
             version.Text = assName.Version.ToString();

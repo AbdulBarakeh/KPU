@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprDLLShared\\CprDLLShared.csproj",
+      "projectUniqueName": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\CprDLLShared\\CprDLLShared.csproj",
       "projectName": "CprDLLShared",
-      "projectPath": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprDLLShared\\CprDLLShared.csproj",
+      "projectPath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\CprDLLShared\\CprDLLShared.csproj",
       "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprDLLShared\\obj\\",
+      "outputPath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\CprDLLShared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

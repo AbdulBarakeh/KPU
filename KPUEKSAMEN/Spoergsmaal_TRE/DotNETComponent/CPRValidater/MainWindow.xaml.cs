@@ -1,4 +1,4 @@
-﻿using CprDLL;
+﻿using CprDLLShared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +19,8 @@ namespace CPRValidater
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// 
+    //For Test Purposes use: 0609240121
     public partial class MainWindow : Window
     {
         CprCheck cprDLL = new CprCheck();
@@ -58,10 +60,6 @@ namespace CPRValidater
                 cprNumber.BorderBrush = Brushes.Green;
                 errMsg.Text = "Cpr is valid!";
             }
-            
-
-
-
         }
     }
 }

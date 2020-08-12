@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj": {}
+    "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj": {
+    "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj",
+        "projectUniqueName": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj",
         "projectName": "CprCheck_Test",
-        "projectPath": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj",
+        "projectPath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprCheck_Test\\obj\\",
+        "outputPath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CprCheck_Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

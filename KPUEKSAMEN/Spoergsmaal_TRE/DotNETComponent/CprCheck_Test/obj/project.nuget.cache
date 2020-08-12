@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gnl0EmT/IQJFXC0ZcD/vLxiprS0mPGlBYgcgLorRU2PAw5k5XIWPkU5624dw54Lil1e/MGX78O6JxxgGSkwC/Q==",
+  "dgSpecHash": "dl21mMbkG8AVau9pwYPDTbJiKOnz9oUji62uKjKhubdOV3G2fHtE0GjHM6vm52vD6+n8n0TWxJsJWGrDnyBwmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj",
+  "projectFilePath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CprCheck_Test\\CprCheck_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdul\\.nuget\\packages\\microsoft.codecoverage\\16.6.1\\microsoft.codecoverage.16.6.1.nupkg.sha512",
     "C:\\Users\\abdul\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

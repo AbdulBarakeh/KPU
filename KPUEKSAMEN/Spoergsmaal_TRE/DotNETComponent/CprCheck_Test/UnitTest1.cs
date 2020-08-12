@@ -1,5 +1,5 @@
 using NUnit.Framework;
-using CprDLL;
+using CprDLLShared;
 using System.Diagnostics;
 
 namespace CprCheck_Test

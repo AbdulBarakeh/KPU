@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CPRValidater\\CPRValidater.csproj",
+      "projectUniqueName": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CPRValidater\\CPRValidater.csproj",
       "projectName": "CPRValidater",
-      "projectPath": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CPRValidater\\CPRValidater.csproj",
+      "projectPath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CPRValidater\\CPRValidater.csproj",
       "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdul\\source\\repos\\DotNETComponent\\CPRValidater\\obj\\",
+      "outputPath": "C:\\Users\\abdul\\Documents\\UNI\\KPU\\KPUEKSAMEN\\Spoergsmaal_TRE\\DotNETComponent\\CPRValidater\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
